@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    background-color:darkkhaki;
+    text-align: center;
+}
+
+h1{
+    color:darkgreen;
+    font-family: cursive;
+}
+
+h2{
+    color:darkred;
+}
+
+a{
+    font-size: large;
+}
