@@ -3,3 +3,16 @@ body {
     background-color:lavender ;
     text-align: center;
 }
+
+a{
+    font-size: large;
+}
+
+h1{
+    color:navy;
+    font-family:Cambria;
+}
+
+h2{
+    color:darkcyan;
+}
