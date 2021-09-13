@@ -1,0 +1,18 @@
+body {
+    font-family: Arial;
+    background-color:gold ;
+    text-align: center;
+}
+
+h1{
+    color:maroon;
+    font-family:'Courier New';
+}
+
+h2{
+    color:seagreen;
+}
+
+a{
+    font-size: large;
+}
