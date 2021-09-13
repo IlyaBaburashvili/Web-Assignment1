@@ -4,6 +4,15 @@ body {
     text-align: center;
 }
 
+h1{
+    color:darkgreen;
+    font-family: cursive;
+}
+
+h2{
+    color:darkred;
+}
+
 a{
     font-size: large;
 }
